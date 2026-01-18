@@ -1,0 +1,11 @@
+Patient_ID,Name,Age,Gender,Disease,Admission_Date,Discharge_Date,Doctor,Bill_Amount
+101,Amit,25,Male,Fever,2024-01-05,2024-01-08,Dr. Patil,3500
+102,Sneha,34,Female,Diabetes,2024-01-10,2024-01-15,Dr. Sharma,12000
+103,Rahul,45,Male,Covid,2024-02-12,2024-02-20,Dr. Khan,18000
+104,Pooja,29,Female,Fever,2024-02-18,2024-02-22,Dr. Patil,4000
+105,Vikas,62,Male,Heart,2024-03-01,2024-03-10,Dr. Mehta,25000
+106,Neha,41,Female,Asthma,2024-03-10,2024-03-18,Dr. Sharma,9000
+107,Rohit,36,Male,Injury,2024-04-05,2024-04-12,Dr. Khan,7000
+108,Anjali,52,Female,Diabetes,2024-04-15,2024-04-22,Dr. Mehta,15000
+109,Suresh,67,Male,Heart,2024-05-02,2024-05-12,Dr. Patil,30000
+110,Kavita,23,Female,Fever,2024-05-10,2024-05-15,Dr. Sharma,4500
